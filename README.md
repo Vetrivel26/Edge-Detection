@@ -27,8 +27,8 @@ Display the filtered image using plot and imshow.
 
 ``` 
 Program to perform edge detection using Sobel, Laplacian, and Canny edge detectors.
-Developed by:Aavula Tharun.
-Ref.no:212221240003.
+Developed by: VETRIVEL S
+Ref.no:212221240060
 
 
 
